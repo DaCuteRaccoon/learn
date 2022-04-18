@@ -1,5 +1,3 @@
-# Learn
-
 There are two ways to learn.
 
 - Detailed learning
