@@ -12,4 +12,4 @@ Whereas in code examples, you just view the 'source code' as an example. You wil
 
 # List
 
-- (HTML)[html]
+- [HTML](html)
