@@ -22,7 +22,7 @@
     "array": [0, 1, 2, 3, "Arrays can have anything in them.", 5],
     
     "another object": {
-      comment": "These things can be nested, very useful."
+      "comment": "These things can be nested, very useful."
     }
   },
   
